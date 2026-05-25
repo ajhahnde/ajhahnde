@@ -12,9 +12,9 @@
 //
 // Reproduce the committed assets:
 //   swift scripts/render_logo.swift 4 assets/ajhahnde_logo_light.png \
-//        --color1 1B1F24 --color2 0B8FB8
+//        --color1 0B8FB8 --color2 000000
 //   swift scripts/render_logo.swift 4 assets/ajhahnde_logo_dark.png \
-//        --color1 E8E8E8 --color2 5BC8F2
+//        --color1 5BC8F2 --color2 FFFFFF
 //
 // For variant 4: --color1 styles "ajhahn", --color2 styles "de".
 // For variants 1-3: --color1 styles the whole word; --color2 ignored.
