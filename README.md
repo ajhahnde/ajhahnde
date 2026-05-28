@@ -5,8 +5,6 @@
     <img src="assets/ajhahnde_logo_light.png" alt="ajhahnde" width="380">
 </picture>
 
-### Student · Berlin · low-level, systems & tooling
-
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" alt="Zig">
@@ -34,11 +32,7 @@
 
 ---
 
-**Currently:** Refining systems architecture & exploring AArch64 bare-metal.
-
 </div>
-
-## Portfolio projects
 
 * **[FlashOS](https://github.com/ajhahnde/FlashOS)** — AArch64 bare-metal kernel for the Raspberry Pi 4 Model B.
 * **[eeco](https://github.com/ajhahnde/eeco)** — A self-maintaining workflow ecosystem.
