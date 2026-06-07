@@ -10,9 +10,11 @@
 // Requires Orbitron-Regular.ttf, Orbitron-Bold.ttf, Orbitron-SemiBold.ttf
 // in /Library/Fonts or ~/Library/Fonts.
 //
-// Reproduce the committed assets:
+// Reproduce the committed assets — cyan "ajhahn" + neutral "de".
+// Light logo uses the Atom One Light palette (reads on white); dark logo
+// keeps the brighter cyan for dark backgrounds:
 //   swift scripts/render_logo.swift 4 assets/ajhahnde_logo_light.png \
-//        --color1 0B8FB8 --color2 000000
+//        --color1 0184bc --color2 383a42
 //   swift scripts/render_logo.swift 4 assets/ajhahnde_logo_dark.png \
 //        --color1 5BC8F2 --color2 FFFFFF
 //
