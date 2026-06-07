@@ -35,7 +35,7 @@
 </div>
 
 * **[FlashOS](https://github.com/ajhahnde/FlashOS)** — AArch64 bare-metal kernel for the Raspberry Pi 4 Model B.
-* **[Flash](https://github.com/ajhahnde/Flash)** — A small systems language that compiles to Zig.
+* **[Flash](https://github.com/ajhahnde/Flash)** — a systems language and Zig transpiler.
 * **[eeco](https://github.com/ajhahnde/eeco)** — A self-maintaining workflow ecosystem.
 * **[the-way-out](https://github.com/ajhahnde/the-way-out)** — Top-down pixel-art escape-room shooter.
 
