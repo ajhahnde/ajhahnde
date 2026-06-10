@@ -10,13 +10,13 @@
 // Requires Orbitron-Regular.ttf, Orbitron-Bold.ttf, Orbitron-SemiBold.ttf
 // in /Library/Fonts or ~/Library/Fonts.
 //
-// Reproduce the committed assets — cyan "ajhahn" + neutral "de".
-// Light logo uses the Atom One Light palette (reads on white); dark logo
-// keeps the brighter cyan for dark backgrounds:
+// Reproduce the committed assets — sky "ajhahn" + neutral "de".
+// The accent is the house sky ladder (mid #0EA5E9 on light, bright
+// #38BDF8 on dark); the neutral is the theme ink:
 //   swift scripts/render_logo.swift 4 assets/ajhahnde_logo_light.png \
-//        --color1 0184bc --color2 383a42
+//        --color1 0EA5E9 --color2 1a1a1a
 //   swift scripts/render_logo.swift 4 assets/ajhahnde_logo_dark.png \
-//        --color1 5BC8F2 --color2 FFFFFF
+//        --color1 38BDF8 --color2 f5f5f5
 //
 // For variant 4: --color1 styles "ajhahn", --color2 styles "de".
 // For variants 1-3: --color1 styles the whole word; --color2 ignored.
