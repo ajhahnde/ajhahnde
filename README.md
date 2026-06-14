@@ -32,6 +32,7 @@
 
 ---
 
+**My projects:**
 * **[FlashOS](https://github.com/ajhahnde/FlashOS)** — AArch64 bare-metal kernel for the Raspberry Pi 4 Model B.
 * **[Flash](https://github.com/ajhahnde/Flash)** — a systems language and Zig transpiler.
 
