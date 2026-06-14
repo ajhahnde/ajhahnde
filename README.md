@@ -38,5 +38,5 @@
 
 **See also:**
 * **[eeco](https://github.com/ajhahnde/eeco)** — Single-binary terminal tool for a self-maintaining, AI-assisted project workflow.
-* **[Ashmere](https://github.com/ajhahnde/Ashmere)** — 2.5D pixel-art MOBA built in Godot 4.
+* **[Theria](https://github.com/ajhahnde/Theria)** — 2.5D pixel-art MOBA built in Godot 4.
 * **[the-way-out](https://github.com/ajhahnde/the-way-out)** — Top-down pixel-art escape-room shooter.
