@@ -37,6 +37,6 @@
 * **[Flash](https://github.com/ajhahnde/Flash)** — a systems language and Zig transpiler.
 
 **See also:**
-* **[eeco](https://github.com/ajhahnde/eeco)**
-* **[Ashmere](https://github.com/ajhahnde/Ashmere)**
+* **[eeco](https://github.com/ajhahnde/eeco)** — Single-binary terminal tool for a self-maintaining, AI-assisted project workflow.
+* **[Ashmere](https://github.com/ajhahnde/Ashmere)** — 2.5D pixel-art MOBA built in Godot 4.
 * **[the-way-out](https://github.com/ajhahnde/the-way-out)** — Top-down pixel-art escape-room shooter.
